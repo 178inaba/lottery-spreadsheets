@@ -1,5 +1,11 @@
 # lottery-spreadsheets
 
+## Usage
+
+```
+$ lottery-spreadsheets -c credentials.json <spreadsheets_id>
+```
+
 ## License
 
 [MIT](LICENSE)
