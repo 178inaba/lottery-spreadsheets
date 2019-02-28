@@ -1,5 +1,7 @@
 # lottery-spreadsheets
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/178inaba/lottery-spreadsheets)](https://goreportcard.com/report/github.com/178inaba/lottery-spreadsheets)
+
 ## Usage
 
 ```console
