@@ -11,7 +11,7 @@ This is an application created for validating the spreadsheet API.
 $ lottery-spreadsheets -c /path/to/key.json <spreadsheets_id>
 ```
 
-Targeting the following table.
+Targeting the following spreadsheet.
 
 | name   | weight |
 |--------|-------:|
