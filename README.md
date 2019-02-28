@@ -11,6 +11,17 @@ This is an application created for validating the spreadsheet API.
 $ lottery-spreadsheets -c /path/to/key.json <spreadsheets_id>
 ```
 
+Targeting the following table.
+
+| name   | weight |
+|--------|-------:|
+| sword  |     10 |
+| spear  |     30 |
+| shield |     50 |
+
+`sword` is `A2`.  
+Draw by lot and display `name`.
+
 ### Options
 
 * `-c <json_key_file>`
