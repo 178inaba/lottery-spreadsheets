@@ -3,6 +3,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/178inaba/lottery-spreadsheets)](https://goreportcard.com/report/github.com/178inaba/lottery-spreadsheets)
 
 lottery-spreadsheets makes weighted draw lots with data in the scope of the spreadsheet.
+This is an application created for validating the spreadsheet API.
 
 ## Usage
 
