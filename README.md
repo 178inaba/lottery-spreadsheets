@@ -5,8 +5,15 @@
 ## Usage
 
 ```console
-$ lottery-spreadsheets -c credentials.json <spreadsheets_id>
+$ lottery-spreadsheets -c /path/to/key.json <spreadsheets_id>
 ```
+
+### Options
+
+* `-c <json_key_file>`
+  * **Required.** JSON key file of the service account.
+* `-r <range>`
+  * Range to use. Default: `A2:B`
 
 ## Install
 
