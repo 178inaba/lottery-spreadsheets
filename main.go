@@ -17,8 +17,8 @@ import (
 func main() {
 	rand.Seed(time.Now().UnixNano())
 
-	credFilePath := flag.String("c", "", "credentials")
-	readRange := flag.String("r", "A2:B", "range")
+	credFilePath := flag.String("c", "", "Required. JSON key file of the service account.")
+	readRange := flag.String("r", "A2:B", "Range to use.")
 	flag.Parse()
 	spreadsheetID := flag.Arg(0)
 
